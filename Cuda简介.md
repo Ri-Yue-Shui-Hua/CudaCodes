@@ -2,6 +2,8 @@
 
 
 
+# 简介
+
 
 
 [CUDA编程入门极简教程 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/34587739)
@@ -441,7 +443,17 @@ Device "GeForce GT 730 (0)"
 
 
 
+# nvidia 官方样例
 
+
+
+https://github.com/nvidia/cuda-samples
+
+安装Cuda后的本地样例：
+
+```bash
+C:\ProgramData\NVIDIA Corporation\CUDA Samples\v11.1
+```
 
 
 
